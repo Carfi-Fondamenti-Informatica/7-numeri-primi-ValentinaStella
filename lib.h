@@ -1,1 +1,5 @@
+#ifndef RICO_NUMERI_PRIMI_CONTROLLO_H
+#define RICO_NUMERI_PRIMI_CONTROLLO_H
 
+#endif //RICO_NUMERI_PRIMI_CONTROLLO_H
+bool controllo (int x, int n);
